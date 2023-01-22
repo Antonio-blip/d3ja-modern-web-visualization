@@ -1,0 +1,14 @@
+rect.bar {
+    fill:burlywood;
+    fill-opacity: 0.8;
+    stroke: burlywood;
+    stroke-width: 3px;
+    background-color: transparent;
+}
+
+text.axisLabel {
+    fill: peru;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
